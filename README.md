@@ -6,7 +6,7 @@
 
  ◦ Started off with a Crash Course on Python Automation
  
- ◦ Currently studying Front End
+ ◦ Currently studying Front End and Robot Framework automation.
 
  ◦ In here I will post any suitable scripts and projects as I finnish them, feel free to contact me and provide me with contructive critique and tips!
 
